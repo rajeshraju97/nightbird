@@ -30,7 +30,7 @@
       </div>
 
       <!-- Support | Auth | Cart -->
-      <div class="col-6 col-sm-8 col-lg-4 d-flex align-items-center justify-content-end gap-3 mt-3 mt-sm-0">
+      <div class="col-6 col-sm-8 col-lg-4 d-flex align-items-center justify-content-end gap-2 mt-3 mt-sm-0">
 
         <!-- Support Info -->
         <div class="d-none d-xl-block text-end">
@@ -39,7 +39,7 @@
         </div>
 
         <!-- Auth Links -->
-         
+
         <!-- Auth Buttons with Icons -->
         <div class="d-flex align-items-center gap-2 flex-wrap mt-2 mt-lg-0">
           @auth
